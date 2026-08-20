@@ -1,7 +1,7 @@
 {
-  "status": "offline",
+  "status": "booting",
   "public_url": "",
-  "updated_at": "2026-08-20T18:05:00Z",
+  "updated_at": "2026-08-20T18:07:20.092386+00:00",
   "model": "Qwen/Qwen3.8-27B",
-  "heartbeat": ""
+  "heartbeat": "2026-08-20T18:07:20.092400+00:00"
 }
