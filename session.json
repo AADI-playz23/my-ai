@@ -1,7 +1,22 @@
 {
-  "status": "active",
-  "public_url": "https://94a69fb22f660ca0ac.gradio.live",
-  "updated_at": "2026-08-21T18:54:10.865571+00:00",
+  "status": "booting",
+  "public_url": "",
+  "updated_at": "2026-08-21T18:56:29.234185+00:00",
   "model": "Qwen/Qwen3.8-27B",
-  "heartbeat": "2026-08-21T18:54:10.865595+00:00"
+  "heartbeat": "2026-08-21T18:56:29.234188+00:00",
+  "idle_seconds": 0,
+  "idle_timeout": 600,
+  "will_shutdown_at": "",
+  "backends": {
+    "kaggle": {
+      "status": "booting",
+      "public_url": "",
+      "model": "Qwen/Qwen3.8-27B",
+      "updated_at": "2026-08-21T18:56:29.234161+00:00",
+      "heartbeat": "2026-08-21T18:56:29.234180+00:00",
+      "idle_seconds": 0,
+      "idle_timeout": 600,
+      "will_shutdown_at": ""
+    }
+  }
 }
