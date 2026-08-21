@@ -1,7 +1,7 @@
 {
-  "status": "active",
-  "public_url": "https://f7e09b862ca5b05837.gradio.live",
-  "updated_at": "2026-08-21T06:58:06.975321+00:00",
+  "status": "booting",
+  "public_url": "",
+  "updated_at": "2026-08-21T17:41:09.607746+00:00",
   "model": "Qwen/Qwen3.8-27B",
-  "heartbeat": "2026-08-21T06:58:06.975352+00:00"
+  "heartbeat": "2026-08-21T17:41:09.607773+00:00"
 }
