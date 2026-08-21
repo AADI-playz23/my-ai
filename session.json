@@ -1,22 +1,22 @@
 {
-  "status": "shutdown_idle",
-  "public_url": "https://79149ca6a5adb02e5b.gradio.live",
-  "updated_at": "2026-08-21T19:05:38.038850+00:00",
+  "status": "active",
+  "public_url": "https://4dbb7a2705968bf329.gradio.live",
+  "updated_at": "2026-08-21T19:06:21.171261+00:00",
   "model": "Qwen/Qwen3.8-27B",
-  "heartbeat": "2026-08-21T19:05:38.038853+00:00",
-  "idle_seconds": 632,
+  "heartbeat": "2026-08-21T19:06:21.171264+00:00",
+  "idle_seconds": 0,
   "idle_timeout": 600,
-  "will_shutdown_at": "2026-08-21T19:05:05.410145+00:00",
+  "will_shutdown_at": "",
   "backends": {
     "kaggle": {
-      "status": "shutdown_idle",
-      "public_url": "https://79149ca6a5adb02e5b.gradio.live",
+      "status": "active",
+      "public_url": "https://4dbb7a2705968bf329.gradio.live",
       "model": "Qwen/Qwen3.8-27B",
-      "updated_at": "2026-08-21T19:05:38.038826+00:00",
-      "heartbeat": "2026-08-21T19:05:38.038845+00:00",
-      "idle_seconds": 632,
+      "updated_at": "2026-08-21T19:06:21.171240+00:00",
+      "heartbeat": "2026-08-21T19:06:21.171255+00:00",
+      "idle_seconds": 0,
       "idle_timeout": 600,
-      "will_shutdown_at": "2026-08-21T19:05:05.410145+00:00"
+      "will_shutdown_at": ""
     }
   }
 }
