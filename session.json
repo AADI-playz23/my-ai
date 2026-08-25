@@ -1,22 +1,22 @@
 {
-  "status": "shutdown_idle",
-  "public_url": "https://4dbb7a2705968bf329.gradio.live",
-  "updated_at": "2026-08-21T19:06:52.184616+00:00",
+  "status": "booting",
+  "public_url": "",
+  "updated_at": "2026-08-25T16:13:45.892070+00:00",
   "model": "Qwen/Qwen3.8-27B",
-  "heartbeat": "2026-08-21T19:06:52.184620+00:00",
-  "idle_seconds": 637,
+  "heartbeat": "2026-08-25T16:13:45.892072+00:00",
+  "idle_seconds": 0,
   "idle_timeout": 600,
-  "will_shutdown_at": "2026-08-21T19:06:14.798784+00:00",
+  "will_shutdown_at": "",
   "backends": {
     "kaggle": {
-      "status": "shutdown_idle",
-      "public_url": "https://4dbb7a2705968bf329.gradio.live",
+      "status": "booting",
+      "public_url": "",
       "model": "Qwen/Qwen3.8-27B",
-      "updated_at": "2026-08-21T19:06:52.184593+00:00",
-      "heartbeat": "2026-08-21T19:06:52.184610+00:00",
-      "idle_seconds": 637,
+      "updated_at": "2026-08-25T16:13:45.892049+00:00",
+      "heartbeat": "2026-08-25T16:13:45.892064+00:00",
+      "idle_seconds": 0,
       "idle_timeout": 600,
-      "will_shutdown_at": "2026-08-21T19:06:14.798784+00:00"
+      "will_shutdown_at": ""
     }
   }
 }
