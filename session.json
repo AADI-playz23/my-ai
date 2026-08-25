@@ -1,19 +1,19 @@
 {
-  "status": "booting",
-  "public_url": "",
-  "updated_at": "2026-08-25T16:31:32.810994+00:00",
+  "status": "active",
+  "public_url": "https://27360918bc3e251b53.gradio.live",
+  "updated_at": "2026-08-25T16:40:28.663844+00:00",
   "model": "Qwen/Qwen3.8-27B",
-  "heartbeat": "2026-08-25T16:31:32.810997+00:00",
+  "heartbeat": "2026-08-25T16:40:28.663848+00:00",
   "idle_seconds": 0,
   "idle_timeout": 600,
   "will_shutdown_at": "",
   "backends": {
     "kaggle": {
-      "status": "booting",
-      "public_url": "",
+      "status": "active",
+      "public_url": "https://27360918bc3e251b53.gradio.live",
       "model": "Qwen/Qwen3.8-27B",
-      "updated_at": "2026-08-25T16:31:32.810965+00:00",
-      "heartbeat": "2026-08-25T16:31:32.810987+00:00",
+      "updated_at": "2026-08-25T16:40:28.663816+00:00",
+      "heartbeat": "2026-08-25T16:40:28.663838+00:00",
       "idle_seconds": 0,
       "idle_timeout": 600,
       "will_shutdown_at": ""
