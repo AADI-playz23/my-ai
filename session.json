@@ -1,22 +1,27 @@
 {
-  "status": "shutdown_idle",
-  "public_url": "https://25feebb1098419ee63.gradio.live",
-  "updated_at": "2026-08-25T17:12:45.018888+00:00",
-  "model": "Qwen/Qwen3.8-27B",
-  "heartbeat": "2026-08-25T17:12:45.018891+00:00",
-  "idle_seconds": 672,
-  "idle_timeout": 600,
-  "will_shutdown_at": "2026-08-25T17:11:32.108912+00:00",
+  "status": "booting",
+  "public_url": "",
+  "active_model": "Qwen 3.8 27B",
+  "updated_at": "2026-08-25T17:21:07.192043+00:00",
+  "heartbeat": "2026-08-25T17:21:07.192047+00:00",
   "backends": {
     "kaggle": {
-      "status": "shutdown_idle",
-      "public_url": "https://25feebb1098419ee63.gradio.live",
-      "model": "Qwen/Qwen3.8-27B",
-      "updated_at": "2026-08-25T17:12:45.018863+00:00",
-      "heartbeat": "2026-08-25T17:12:45.018883+00:00",
-      "idle_seconds": 672,
+      "status": "booting",
+      "public_url": "",
+      "active_model_key": "qwen-27b",
+      "active_model_name": "Qwen 3.8 27B",
+      "available_models": [
+        "qwen-27b",
+        "deepseek-r1",
+        "gpt-oss-20b",
+        "flux-image",
+        "wan-video"
+      ],
+      "updated_at": "2026-08-25T17:21:07.192017+00:00",
+      "heartbeat": "2026-08-25T17:21:07.192037+00:00",
+      "idle_seconds": 0,
       "idle_timeout": 600,
-      "will_shutdown_at": "2026-08-25T17:11:32.108912+00:00"
+      "will_shutdown_at": ""
     }
   }
 }
