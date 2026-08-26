@@ -2,8 +2,8 @@
   "status": "booting",
   "public_url": "",
   "active_model": "Qwen 2.5 14B / 32B",
-  "updated_at": "2026-08-25T17:33:20.473898+00:00",
-  "heartbeat": "2026-08-25T17:33:20.473901+00:00",
+  "updated_at": "2026-08-26T17:24:20.986195+00:00",
+  "heartbeat": "2026-08-26T17:24:20.986198+00:00",
   "backends": {
     "kaggle": {
       "status": "booting",
@@ -17,8 +17,8 @@
         "flux-image",
         "wan-video"
       ],
-      "updated_at": "2026-08-25T17:33:20.473866+00:00",
-      "heartbeat": "2026-08-25T17:33:20.473889+00:00",
+      "updated_at": "2026-08-26T17:24:20.986171+00:00",
+      "heartbeat": "2026-08-26T17:24:20.986188+00:00",
       "idle_seconds": 0,
       "idle_timeout": 600,
       "will_shutdown_at": ""
