@@ -2,8 +2,8 @@
   "status": "active",
   "public_url": "https://052aa1ec2d1cd3714b.gradio.live",
   "active_model": "Qwen 2.5 14B / 32B",
-  "updated_at": "2026-08-28T09:20:12.519699+00:00",
-  "heartbeat": "2026-08-28T09:20:12.519702+00:00",
+  "updated_at": "2026-08-28T09:20:43.439056+00:00",
+  "heartbeat": "2026-08-28T09:20:43.439059+00:00",
   "backends": {
     "kaggle": {
       "status": "active",
@@ -17,9 +17,9 @@
         "flux-image",
         "wan-video"
       ],
-      "updated_at": "2026-08-28T09:20:12.519669+00:00",
-      "heartbeat": "2026-08-28T09:20:12.519691+00:00",
-      "idle_seconds": 127,
+      "updated_at": "2026-08-28T09:20:43.439029+00:00",
+      "heartbeat": "2026-08-28T09:20:43.439050+00:00",
+      "idle_seconds": 158,
       "idle_timeout": 600,
       "will_shutdown_at": "2026-08-28T09:28:04.456540+00:00"
     }
