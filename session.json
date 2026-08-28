@@ -1,13 +1,13 @@
 {
   "status": "active",
-  "public_url": "https://052aa1ec2d1cd3714b.gradio.live",
+  "public_url": "https://7afcd977c7b04f01e2.gradio.live",
   "active_model": "Qwen 2.5 14B / 32B",
-  "updated_at": "2026-08-28T09:18:08.257031+00:00",
-  "heartbeat": "2026-08-28T09:18:08.257033+00:00",
+  "updated_at": "2026-08-28T09:18:15.807507+00:00",
+  "heartbeat": "2026-08-28T09:18:15.807510+00:00",
   "backends": {
     "kaggle": {
       "status": "active",
-      "public_url": "https://052aa1ec2d1cd3714b.gradio.live",
+      "public_url": "https://7afcd977c7b04f01e2.gradio.live",
       "active_model_key": "qwen-27b",
       "active_model_name": "Qwen 2.5 14B / 32B",
       "available_models": [
@@ -17,11 +17,11 @@
         "flux-image",
         "wan-video"
       ],
-      "updated_at": "2026-08-28T09:18:08.257001+00:00",
-      "heartbeat": "2026-08-28T09:18:08.257023+00:00",
-      "idle_seconds": 0,
+      "updated_at": "2026-08-28T09:18:15.807478+00:00",
+      "heartbeat": "2026-08-28T09:18:15.807499+00:00",
+      "idle_seconds": 127,
       "idle_timeout": 600,
-      "will_shutdown_at": ""
+      "will_shutdown_at": "2026-08-28T09:26:08.540655+00:00"
     }
   }
 }
