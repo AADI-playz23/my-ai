@@ -1,10 +1,10 @@
 {
   "status": "booting",
   "public_url": "",
-  "updated_at": "2026-08-28T09:38:21.274596+00:00",
+  "updated_at": "2026-08-28T09:39:40.067407+00:00",
   "model": "Qwen/Qwen2.5-14B-Instruct",
   "active_model": "Qwen 2.5 14B / 32B",
-  "heartbeat": "2026-08-28T09:38:21.274612+00:00",
+  "heartbeat": "2026-08-28T09:39:40.067424+00:00",
   "idle_seconds": 0,
   "idle_timeout": 600,
   "will_shutdown_at": "",
@@ -14,8 +14,8 @@
       "public_url": "",
       "active_model_key": "qwen-27b",
       "active_model_name": "Qwen 2.5 14B / 32B",
-      "updated_at": "2026-08-28T09:38:21.274616+00:00",
-      "heartbeat": "2026-08-28T09:38:21.274618+00:00",
+      "updated_at": "2026-08-28T09:39:40.067428+00:00",
+      "heartbeat": "2026-08-28T09:39:40.067431+00:00",
       "idle_seconds": 0,
       "idle_timeout": 600,
       "will_shutdown_at": ""
