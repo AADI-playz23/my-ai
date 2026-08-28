@@ -1,11 +1,11 @@
 {
   "status": "active",
   "public_url": "https://0b446935da733ddccb.gradio.live",
-  "updated_at": "2026-08-28T11:28:07.136050+00:00",
+  "updated_at": "2026-08-28T11:28:38.025106+00:00",
   "model": "Qwen/Qwen2.5-14B-Instruct",
   "active_model": "Qwen 2.5 14B / 32B",
-  "heartbeat": "2026-08-28T11:28:07.136054+00:00",
-  "idle_seconds": 170,
+  "heartbeat": "2026-08-28T11:28:38.025110+00:00",
+  "idle_seconds": 201,
   "idle_timeout": 1200,
   "will_shutdown_at": "2026-08-28T11:45:16.603020+00:00",
   "backends": {
@@ -14,9 +14,9 @@
       "public_url": "https://0b446935da733ddccb.gradio.live",
       "active_model_key": "qwen-27b",
       "active_model_name": "Qwen 2.5 14B / 32B",
-      "updated_at": "2026-08-28T11:28:07.136058+00:00",
-      "heartbeat": "2026-08-28T11:28:07.136061+00:00",
-      "idle_seconds": 170,
+      "updated_at": "2026-08-28T11:28:38.025114+00:00",
+      "heartbeat": "2026-08-28T11:28:38.025117+00:00",
+      "idle_seconds": 201,
       "idle_timeout": 1200,
       "will_shutdown_at": "2026-08-28T11:45:16.603020+00:00"
     }
