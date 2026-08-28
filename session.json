@@ -1,27 +1,15 @@
 {
-  "status": "active",
-  "public_url": "https://17c018434c95c1b8db.gradio.live",
-  "active_model": "Qwen 2.5 14B / 32B",
-  "updated_at": "2026-08-28T08:17:19.202076+00:00",
-  "heartbeat": "2026-08-28T08:17:19.202080+00:00",
+  "status": "offline",
+  "public_url": "",
+  "active_model": "None",
+  "updated_at": "2026-08-28T08:17:48.137321+00:00",
+  "heartbeat": "2026-08-28T08:17:48.137405+00:00",
   "backends": {
     "kaggle": {
-      "status": "active",
-      "public_url": "https://17c018434c95c1b8db.gradio.live",
+      "status": "offline",
+      "public_url": "",
       "active_model_key": "qwen-27b",
-      "active_model_name": "Qwen 2.5 14B / 32B",
-      "available_models": [
-        "qwen-27b",
-        "deepseek-r1",
-        "gpt-oss-20b",
-        "flux-image",
-        "wan-video"
-      ],
-      "updated_at": "2026-08-28T08:17:19.202023+00:00",
-      "heartbeat": "2026-08-28T08:17:19.202049+00:00",
-      "idle_seconds": 0,
-      "idle_timeout": 600,
-      "will_shutdown_at": ""
+      "updated_at": "2026-08-28T08:17:48.137422+00:00"
     }
   }
 }
